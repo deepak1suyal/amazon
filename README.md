@@ -1,4 +1,5 @@
 # amazon
 html css clone
 <br>
-author deepak
+Author=Deepak Singh Suyal
+
